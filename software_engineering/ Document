@@ -1,0 +1,4 @@
+This program just takes the string from the user and outputs it to the file. 
+Qfile library contains the standradr input/ output operations. 
+QTextstream library is used for file handling in qt. it can be used to take input from a file or to output to a file.
+
